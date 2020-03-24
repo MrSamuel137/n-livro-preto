@@ -14,7 +14,7 @@
 #### devo conseguir adicionar sobre um ativo
 
 ### eu como usuário quero que o sistema adicione categorias de passivo
-#### devo coneguir definir a cor de fundo da categoria
+#### devo conseguir definir a cor de fundo da categoria
 
 ## Registro de Ativos
 
@@ -24,4 +24,4 @@
 #### devo conseguir adicionar sobre um ativo
 
 ### eu como usuário quero que o sistema adicione categorias de ativos
-#### devo coneguir definir a cor de fundo da categoria
+#### devo conseguir definir a cor de fundo da categoria
