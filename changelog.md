@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities
 
-Mantenha às seguintes dúvidas ao criar o `changelog`: O quê? Quem? Onde? Como? Por quê?
+Mantenha às seguintes dúvidas ao adicionar um item ao `changelog`: O quê? Quem? Onde? Como? Por quê?
 
 ## [Unreleased]
 
